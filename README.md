@@ -3,6 +3,8 @@ Use background camera to set wallpaper on windows with time, weather and earthqu
 
 ![temp](https://user-images.githubusercontent.com/19714385/157600603-dcc9a270-bcb4-404c-8439-a2d812aa561a.jpg)
 
+![Uploading qq_pic_merged_1646893257398.jpg…]()
+
 Use PyOwm and PIL which you can identify the city ID and UI setting.
 
 Check https://pyowm.readthedocs.io/en/latest/ and https://pillow.readthedocs.io/en/stable/for more infomation.
